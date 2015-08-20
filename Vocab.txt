@@ -1,0 +1,52 @@
+1. Object - software objects model real world objects or abstract concepts. Object is an instance of a Class.
+
+2. Object - Oriented Programming (OOP) - is a programming paradigm, which uses objects and their interactions for building computer programs.
+
+3. Object Instance - specific realization of any object.
+
+4. Object Instantiation - creating the object of a defined class.
+
+5. Object Constructor - used to initialize the instance variables of an object.They are usually declared as public.
+
+6. The "new" keyword - the creation of objects from preliminarily defined classes during program execution is performed by this operator. 
+
+7. Fields - is a variable of any type that is declared directly in a class. Use fields for variables that have private or protected accessibility. 
+
+8. Properties - extend the functionality of the fields by giving the ability of extra data management when extracting and recording it in the class fields. 
+
+9. Methods - they implement the manipulation of the data.
+
+10. Static members - can be accessed directly from the class.A static member in a given class is defined with the keyword static, placed before the type of the field or the type of retuened value of the method.
+
+11. Non-Static members - have to be accessed from an instance.
+
+12. .NET - is a layer of software that makes it easier for you to write programs that can communicate with the operating system.
+
+13. Encapsulation - prevents access to implementation details.
+
+14. Class - are building blocks of OOP. Defines abstract characteristics of objects. 
+
+15. Heap - purpose is to hold information, so anything in it can be accessed at any time. There are no constraints as to what can be accessed. More or less responsible for keeping track of the objects.
+
+16. .NET CLR (garbage collection) - enables you to develop your application without having to free memory. Allocates objects on the manages heap efficiently. Reclaims objects that are no longer being used, clears their memory, and keeps the memory avaliable for future allocations. Provides memory safety by making sure that an object cannot use the content of another object.
+
+17. Namespace - container for a group of classes. Designed to help organize your programs. Provides assistance in avoiding name clashes between two sets of code. 
+
+18. Constant (data in programming) - is an identifier with a fixed value which cannot be altered by the program during normal execution.
+
+19. Public Member(OOP) - access modifier that does not introduce any restrictions for calling the method. Makes it publicly avaliable. 
+
+20. Private member (OOP) - access modifier that has the class encapsulate certain information from the rest of the program. 
+
+21. The "using" keyword - helps manage resources. Protects the whole system's resources by specifying the scope of the usage of the resource. 
+
+22. Pointer - variable that holds the address of value types and arrays.
+
+23. Memory address - is a data concept used at various levels by software and hardware to access the computer's primary storage memory. 
+
+24. Mutable - object which can be modified after it is created.
+
+25. Immutable - object whose state cannot be modified after it is created.
+
+
+
